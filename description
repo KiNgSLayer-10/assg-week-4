@@ -1,0 +1,7 @@
+optimizer-Adam
+loss func -Cross Entropy Loss
+2 conv layers of kernel size 3
+output layer sizes of 6 and 16 respectively ith stride 1
+pooling- kernel size - 2.Stride of 2
+activation function - RELu
+Accuracy-89%
